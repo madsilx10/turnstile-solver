@@ -1,2 +1,0 @@
-pydoll-python
-aiohttp
